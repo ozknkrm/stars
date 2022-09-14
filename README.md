@@ -1,0 +1,2 @@
+# stars
+Java loops practice.
